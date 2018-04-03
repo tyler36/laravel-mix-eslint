@@ -1,0 +1,17 @@
+{
+  "name": "laravel-mix-eslint",
+  "version": "0.1.0",
+  "description": "A quick laravel-mix plugin for adding eslint support",
+  "main": "index.js",
+  "author": "tyler36 <s.hendrix@iqnet.co.jp>",
+  "license": "MIT",
+  "keywords": ["laravel", "laravel mix", "mix", "eslint"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyler36/laravel-mix-eslint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tyler36/laravel-mix-eslint/issues"
+  },
+  "homepage": "https://github.com/tyler36/laravel-mix-eslint#readme"
+}
